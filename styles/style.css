@@ -64,3 +64,12 @@ body button {
   border-radius: 5px;
   margin-bottom: 20px;
 }
+
+#stats-container{
+  margin-right: 2%;
+}
+
+#clock-container {
+  margin-left: 2%;
+  margin-top: 1%;
+}
